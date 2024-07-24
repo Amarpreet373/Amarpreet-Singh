@@ -1,7 +1,7 @@
 # Amarpreet-Singh
-ALL ABOUT BHUJANG MULTANI 
+ALL ABOUT AMARPREET SINGH
 
-Hi, I'm Bhujangbir Singh. I'm currently pursuing my undergraduate degree at GNDEC Ludhiana. Hailing from a small village in Kapurthala, I enjoy coding and reading books. I'm proud to be a district topper in the Maths Olympiad and have also played basketball at the district level.
+Hi, I'm AMARPREET Singh. I'm currently pursuing my undergraduate degree at GNDEC Ludhiana. Hailing from a small village in Kapurthala, I enjoy coding and reading books. I'm proud to be a district topper in the Maths Olympiad and have also played basketball at the district level.
 
 
 
@@ -12,7 +12,7 @@ Hi, I'm Bhujangbir Singh. I'm currently pursuing my undergraduate degree at GNDE
 
 **My excel certificate**
 
-![Excel certificate ](certificate.png)
+![Excel certificate ](Screenshot_2024-07-23-22-38-25-97_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 _I recently completed an Excel course, and it was a fantastic learning experience. The course covered everything from basic functions to advanced data analysis techniques, making it incredibly comprehensive. I now feel much more confident in my Excel skills and can apply them effectively in my projects. Highly recommend it to anyone looking to enhance their data management capabilities!_
 
